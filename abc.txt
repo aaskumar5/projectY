@@ -2,5 +2,6 @@ This is second file
 <<<<<<< HEAD
 New line
 Third
+Fourth line
 =======
 >>>>>>> parent of 265eae1 (second commit)
